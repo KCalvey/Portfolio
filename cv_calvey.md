@@ -3,7 +3,10 @@ Mathematics student at UIW
 
 # Education
 Incarnate Word University
-Mathematics with a minor in Data Science
+Bachelor of Science, Mathematics (minor in Data Science) - Expected May 2026
+
+San Antonio College
+Associate of Science, Mathematics
 
 # Work Experience
 
