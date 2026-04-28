@@ -6,6 +6,8 @@ Incarnate Word University
 Mathematics with a minor in Data Science
 ...
 
+# Work Experience
+
 <h1> Projects </h1>h1>
 <table>
   <tr>
@@ -18,4 +20,6 @@ Mathematics with a minor in Data Science
   
 </table>
 
-# Certificate
+# Certificates
+
+# Resume
