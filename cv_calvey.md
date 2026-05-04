@@ -63,8 +63,6 @@ A statistical analysis of SpaceX launch data using multiple regression to evalua
 
 ### Google Advanced Data Analytics Certificate
 
-![Google Certificate](./Images-documents/Google%20Certification%20-%20ADA.png)
-
 Completed a 7-course professional program covering data analysis, statistics, regression, and machine learning, with hands-on projects focused on real-world data applications.
 
 * **Skills:** Data Analysis, Predictive Modeling, Machine Learning, Statistical Analysis
@@ -78,6 +76,34 @@ Completed a 7-course professional program covering data analysis, statistics, re
 Mathematics student at the University of the Incarnate Word with a minor in Data Science, supported by a strong foundation in statistics, modeling, and analytical problem-solving. Currently working as a Quality Systems Specialist at Boeing, where I apply data analysis, forecasting, and process improvement techniques to support operational performance, compliance, and strategic decision-making. Experienced in translating data into actionable insights and collaborating across teams to drive continuous improvement and data-driven outcomes. <br>
 
 [Download My Resume](./Images-documents/Calvey_Resume_4May.pdf)
+
+---
+
+## Relevant Coursework
+
+**Mathematics & Statistics**
+
+* Calculus I, II, III
+* Differential Equations
+* Linear Algebra
+* Intro to Probability and Statistics
+* Statistical Methods
+* Stochastic Processes
+* Regression Analysis
+
+**Advanced Mathematics**
+
+* Foundations of Higher Mathematics
+* Abstract Algebra and Number Theory
+* Intro to Real Analysis
+* Complex Variables
+* Geometry and Proof
+
+**Applied & Data Science**
+
+* Mathematical Modeling
+* Data Science Capstone
+* University Physics
 
 ---
 
