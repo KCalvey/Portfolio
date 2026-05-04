@@ -71,6 +71,13 @@ Completed a 7-course professional program covering data analysis, statistics, re
 
 ---
 
+## Awards & Honors
+
+- **Outstanding Mathematical Fields Award** – University of the Incarnate Word (May 2025)  
+- **Dean’s List** – Spring 2025
+
+---
+
 ## Relevant Coursework
 
 **Mathematics & Statistics**
