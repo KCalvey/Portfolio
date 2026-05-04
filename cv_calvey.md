@@ -71,14 +71,6 @@ Completed a 7-course professional program covering data analysis, statistics, re
 
 ---
 
-## Resume
-
-Mathematics student at the University of the Incarnate Word with a minor in Data Science, supported by a strong foundation in statistics, modeling, and analytical problem-solving. Currently working as a Quality Systems Specialist at Boeing, where I apply data analysis, forecasting, and process improvement techniques to support operational performance, compliance, and strategic decision-making. Experienced in translating data into actionable insights and collaborating across teams to drive continuous improvement and data-driven outcomes. <br>
-
-[Download My Resume](./Images-documents/Calvey_Resume_4May.pdf)
-
----
-
 ## Relevant Coursework
 
 **Mathematics & Statistics**
@@ -104,6 +96,14 @@ Mathematics student at the University of the Incarnate Word with a minor in Data
 * Mathematical Modeling
 * Data Science Capstone
 * University Physics
+
+---
+
+## Resume
+
+Mathematics student at the University of the Incarnate Word with a minor in Data Science, supported by a strong foundation in statistics, modeling, and analytical problem-solving. Currently working as a Quality Systems Specialist at Boeing, where I apply data analysis, forecasting, and process improvement techniques to support operational performance, compliance, and strategic decision-making. Experienced in translating data into actionable insights and collaborating across teams to drive continuous improvement and data-driven outcomes. <br>
+
+[Download My Resume](./Images-documents/Calvey_Resume_4May.pdf)
 
 ---
 
