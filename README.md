@@ -83,5 +83,4 @@ Mathematics student at the University of the Incarnate Word with a minor in Data
 
 ## Contact
 
-* LinkedIn: [Add your LinkedIn URL]
-* Email: [Optional]
+* Email: klreding927@gmail.com 
