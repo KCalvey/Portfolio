@@ -1,8 +1,7 @@
 # Kari Calvey
 
-Quality System Specialist | The Boeing Company
-Mathematics Student | Data Science Minor
-Incarnate Word University
+Quality System Specialist | The Boeing Company <br>
+Mathematics Student | Data Science Minor | Incarnate Word University
 
 ---
 
