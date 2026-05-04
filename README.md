@@ -17,9 +17,9 @@ Associate of Science in Mathematics
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🧠 Data Science Capstone – Employee Attrition Analysis
+### Data Science Capstone – Employee Attrition Analysis
 
 A data science project analyzing employee data from Salifort Motors to identify key drivers of attrition and build predictive models to support HR decision-making and retention strategies.
 
@@ -35,7 +35,7 @@ A data science project analyzing employee data from Salifort Motors to identify 
 
 ---
 
-### 🚀 SpaceX Launch Analysis (Multiple Regression Project)
+### SpaceX Launch Analysis (Multiple Regression Project)
 
 A statistical analysis of SpaceX launch data using multiple regression to evaluate factors influencing mission success, including time, rocket type, launchpad, and payload characteristics.
 
@@ -61,9 +61,15 @@ A statistical analysis of SpaceX launch data using multiple regression to evalua
 
 ## Certificates
 
-* **Google Advanced Data Analytics Certificate**
+### Google Advanced Data Analytics Certificate
 
-  * Focused on data cleaning, analysis, and visualization
+![Google Certificate](./Images-documents/Google%20Certification%20-%20ADA.png)
+
+Completed a 7-course professional program covering data analysis, statistics, regression, and machine learning, with hands-on projects focused on real-world data applications.
+
+* **Skills:** Data Analysis, Predictive Modeling, Machine Learning, Statistical Analysis
+* **Issued:** April 2026
+* **Download Certificate:** [View PDF](./Images-documents/Google%20Certification%20-%20ADA.pdf)
 
 ---
 
