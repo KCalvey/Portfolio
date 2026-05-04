@@ -19,23 +19,23 @@ Associate of Science in Mathematics
 
 ## Projects
 
-### Capstone Project – [Project Name]
+### Capstone Project – SpaceX Analysis Project
 
-A [brief 1–2 sentence description of what your project does and why it matters].
+A data analysis project focused on SpaceX launch data, including insights, trends, and forecasting.
 
-* **Tech:** Python, SQL, (add others)
-* **Features:** Data analysis, forecasting, visualization (customize this)
-* **GitHub Repo:** https://github.com/KCalvey/your-capstone-repo
+* **Tech:** Python, (add others if used)
+* **Features:** Data cleaning, analysis, visualization
+* **Report:** [View PDF](./Images-documents/Calvey_FinalProject_SpaceX.pdf)
 
 ---
 
-### Regression Analysis Project (Course Project)
+### Additional Data Analysis Project
 
-A project focused on [what problem you analyzed or solved].
+A project focused on data analysis and interpretation for coursework.
 
-* **Tools:** Python, Excel (or whatever you used)
-* **Summary:** Brief explanation of your analysis and results
-* **Report:** [View PDF](./your-file-name.pdf)
+* **Tools:** Python, Excel
+* **Summary:** Applied data analysis techniques to extract insights and support conclusions
+* **Report:** [View PDF](./Images-documents/Calvey_FinalProject_SpaceX.pdf)
 
 ---
 
@@ -57,7 +57,7 @@ A project focused on [what problem you analyzed or solved].
 
 ## Resume
 
-[Download My Resume](./Kari_Calvey_Resume.pdf)
+[Download My Resume](./Images-documents/Calvey_Resume_4May.pdf)
 
 ---
 
