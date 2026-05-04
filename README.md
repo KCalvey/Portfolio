@@ -63,13 +63,46 @@ A statistical analysis of SpaceX launch data using multiple regression to evalua
 
 ### Google Advanced Data Analytics Certificate
 
-![Google Certificate](./Images-documents/Google%20Certification%20-%20ADA.png)
-
 Completed a 7-course professional program covering data analysis, statistics, regression, and machine learning, with hands-on projects focused on real-world data applications.
 
 * **Skills:** Data Analysis, Predictive Modeling, Machine Learning, Statistical Analysis
 * **Issued:** April 2026
 * **Download Certificate:** [View PDF](./Images-documents/Google%20Certification%20-%20ADA.pdf)
+
+---
+
+## Awards & Honors
+
+- **Outstanding Mathematical Fields Award** – University of the Incarnate Word (May 2025)  
+- **Dean’s List** – Spring 2025
+
+---
+
+## Relevant Coursework
+
+**Mathematics & Statistics**
+
+* Calculus I, II, III
+* Differential Equations
+* Linear Algebra
+* Intro to Probability and Statistics
+* Statistical Methods
+* Stochastic Processes
+* Regression Analysis
+
+**Advanced Mathematics**
+
+* Foundations of Higher Mathematics
+* Abstract Algebra and Number Theory
+* Intro to Real Analysis
+* Complex Variables
+* Geometry and Proof
+
+**Applied & Data Science**
+
+* Mathematical Modeling
+* Data Science Capstone
+* University Physics
 
 ---
 
