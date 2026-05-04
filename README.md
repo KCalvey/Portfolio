@@ -53,7 +53,7 @@ A statistical analysis of SpaceX launch data using multiple regression to evalua
 
 ## Technical Skills
 
-* **Languages:** Python, Java, SQL
+* **Languages:** Python, C++, R
 * **Tools:** Git, Excel
 * **Concepts:** Data Analysis, Statistics, Forecasting
 
