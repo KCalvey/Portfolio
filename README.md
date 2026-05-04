@@ -17,25 +17,37 @@ Associate of Science in Mathematics
 
 ---
 
-## Projects
+## 🚀 Projects
 
-### Capstone Project – SpaceX Analysis Project
+### 🧠 Data Science Capstone – Employee Attrition Analysis
 
-A data analysis project focused on SpaceX launch data, including insights, trends, and forecasting.
+A data science project analyzing employee data from Salifort Motors to identify key drivers of attrition and build predictive models to support HR decision-making and retention strategies.
 
-* **Tech:** Python, (add others if used)
-* **Features:** Data cleaning, analysis, visualization
-* **Report:** [View PDF](./Images-documents/Calvey_FinalProject_SpaceX.pdf)
+* **Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+* **Methods:** Data Cleaning, Exploratory Data Analysis, Feature Engineering, Predictive Modeling
+* **Models:** Decision Tree Classifier, Random Forest (with GridSearchCV)
+* **Key Outcomes:**
+
+  * Identified factors contributing to employee attrition
+  * Built models to predict employee turnover risk
+  * Developed data-driven recommendations to improve retention
+* **GitHub Repo:** https://github.com/KCalvey/ADA-Capstone
 
 ---
 
-### Additional Data Analysis Project
+### 🚀 SpaceX Launch Analysis (Multiple Regression Project)
 
-A project focused on data analysis and interpretation for coursework.
+A statistical analysis of SpaceX launch data using multiple regression to evaluate factors influencing mission success, including time, rocket type, launchpad, and payload characteristics.
 
-* **Tools:** Python, Excel
-* **Summary:** Applied data analysis techniques to extract insights and support conclusions
-* **Report:** [View PDF](./Images-documents/Calvey_FinalProject_SpaceX.pdf)
+* **Tools:** R, Statistical Modeling, Data Analysis
+* **Methods:** Multiple Regression, ANOVA, Model Comparison, Residual Diagnostics
+* **Key Findings:**
+
+  * Launch success rates improved significantly over time
+  * Rocket type and launchpad location impact success probability
+  * Model explains a meaningful portion of variability in launch outcomes
+* **Analysis:** Regression assumptions validated through residual and normality diagnostics 
+* **Report:** [View Full Analysis](./Images-documents/Calvey_FinalProject_SpaceX.pdf)
 
 ---
 
